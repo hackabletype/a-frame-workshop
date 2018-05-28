@@ -2,5 +2,5 @@
     // Set Custom root of Live Server. 
     // To change root the the server to sub folder of workspace, use '/' and relative path from workspace. 
     // Example: /subfolder1/subfolder2
-    "liveServer.settings.root": "/part-1/"
+    "liveServer.settings.root": "/part-2/"
 }
